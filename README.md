@@ -9,7 +9,6 @@
        alt="snake" /></a>
 </div>
 
-<summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NullTerminatorr&show_icons=true&count_private=true&theme=algolia" height="192px"/>
