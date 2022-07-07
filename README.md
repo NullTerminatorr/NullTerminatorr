@@ -9,6 +9,19 @@
        alt="snake" /></a>
 </div>
 
+<summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhadeepZilong&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadeepZilong&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhadeepZilong" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 - 🔭 I’m currently working on Artificial Intelligence software for cheating in games.
 - 🌱 I’m currently learning Machine Learning and Front-End development.
 - 📫 How to reach me: vrtxcheats@gmail.com
