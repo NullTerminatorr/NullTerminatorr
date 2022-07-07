@@ -3,6 +3,12 @@
 <h4 align="center">Computer Science graduate with 5 years of programming experience.</h4>
 </div>
 
+<div align="center">
+  <a href="https://NullTerminatorr.github.io/NullTerminatorr/">
+  <img  src="https://github.com/NullTerminatorr/NullTerminatorr/blob/main/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🔭 I’m currently working on Artificial Intelligence software for cheating in games.
 - 🌱 I’m currently learning Machine Learning and Front-End development.
 - 📫 How to reach me: vrtxcheats@gmail.com
