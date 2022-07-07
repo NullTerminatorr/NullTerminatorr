@@ -1,8 +1,12 @@
-### Hi there 👋
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Null</h1>
 <h4 align="center">Computer Science graduate with 5 years of programming experience.</h4>
 </div>
+
+- 🔭 I’m currently working on Artificial Intelligence software for cheating in games.
+- 🌱 I’m currently learning Machine Learning and Front-End development.
+- 📫 How to reach me: vrtxcheats@gmail.com
+
 <!--
 **NullTerminatorr/NullTerminatorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
