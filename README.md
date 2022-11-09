@@ -17,9 +17,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🔭 I’m currently working on Artificial Intelligence software for cheating in games.
+- 🔭 I’m currently working on NullCall (Calling Kernel functions from usermode).
 - 🌱 I’m currently learning Machine Learning and Front-End development.
-- 📫 How to reach me: vrtxcheats@gmail.com
 
 <!--
 **NullTerminatorr/NullTerminatorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
