@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🔭 I’m currently working on NullCall (Calling Kernel functions from usermode).
+- 🔭 I’m currently working on NullCall (Calling Kernel functions from usermode by leveraging a public CVE) the goal is to use this for a kernel driver mapper.
 - 🌱 I’m currently learning Machine Learning and Front-End development.
 
 <!--
