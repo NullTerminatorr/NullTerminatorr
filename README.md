@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Null</h1>
-<h4 align="center">Computer Science graduate with 5 years of programming experience.</h4>
+<h4 align="center">chill guy</h4>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NullTerminatorr&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Null's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NullTerminatorr&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     </a>
   </p>
 
