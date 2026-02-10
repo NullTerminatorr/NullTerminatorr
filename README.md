@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Null</h1>
-<h4 align="center">chill guy</h4>
 </div>
 <div align="center">
   <img  src="https://raw.githubusercontent.com/NullTerminatorr/NullTerminatorr/main/github-contribution-grid-snake.svg"
